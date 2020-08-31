@@ -1,0 +1,36 @@
+{
+  "name": "jsr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "jasmine-core": "^3.5.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^3.1.1",
+    "karma-mocha-reporter": "^2.2.5",
+    "karma-typescript": "^5.0.2",
+    "ts-loader": "^7.0.4",
+    "ts-node": "^8.10.1",
+    "tslib": "^2.0.0",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "@types/jasmine": "^3.5.10",
+    "@types/jquery": "^3.3.38",
+    "css-loader": "^3.5.3",
+    "jquery": "^3.5.1",
+    "karma": "^5.0.7",
+    "reflect-metadata": "^0.1.13",
+    "style-loader": "^1.2.1"
+  }
+}
